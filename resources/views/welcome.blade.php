@@ -47,7 +47,7 @@
 
                  <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     
-                        <h1>Welcome to the Laravel Test App for cloudways</h1>
+                        <h1>Welcome to the Laravel Test App for cloudways. Checking it for server application.</h1>
                                
                  </div>
 
